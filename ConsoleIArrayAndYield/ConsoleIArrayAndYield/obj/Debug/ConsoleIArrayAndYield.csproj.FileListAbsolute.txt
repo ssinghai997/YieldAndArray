@@ -1,0 +1,7 @@
+D:\DotNet-training\ConsoleIArrayAndYield\ConsoleIArrayAndYield\bin\Debug\ConsoleIArrayAndYield.exe.config
+D:\DotNet-training\ConsoleIArrayAndYield\ConsoleIArrayAndYield\bin\Debug\ConsoleIArrayAndYield.exe
+D:\DotNet-training\ConsoleIArrayAndYield\ConsoleIArrayAndYield\bin\Debug\ConsoleIArrayAndYield.pdb
+D:\DotNet-training\ConsoleIArrayAndYield\ConsoleIArrayAndYield\obj\Debug\ConsoleIArrayAndYield.csprojAssemblyReference.cache
+D:\DotNet-training\ConsoleIArrayAndYield\ConsoleIArrayAndYield\obj\Debug\ConsoleIArrayAndYield.csproj.CoreCompileInputs.cache
+D:\DotNet-training\ConsoleIArrayAndYield\ConsoleIArrayAndYield\obj\Debug\ConsoleIArrayAndYield.exe
+D:\DotNet-training\ConsoleIArrayAndYield\ConsoleIArrayAndYield\obj\Debug\ConsoleIArrayAndYield.pdb
